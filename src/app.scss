@@ -1,0 +1,16 @@
+@import 'node_modules/bootstrap/scss/bootstrap';
+
+@import 'header';
+@import 'woocommerce';
+
+
+body {
+    padding-top: 56px;
+}
+
+.container {}
+
+.footer {
+    bottom: 0;
+    width: 100%;
+}

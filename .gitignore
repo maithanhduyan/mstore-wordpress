@@ -17,3 +17,20 @@ wp-content/plugins/hello.php
 /sitemap.xml
 /sitemap.xml.gz
 
+
+# Minified js
+*.min.js
+/assets/js/vendor/*.min.js
+/assets/js/editor.js
+
+# Node
+/node_modules
+
+# Composer
+/vendor
+
+# PhpStorm
+.idea
+
+# macOS
+.DS_Store
